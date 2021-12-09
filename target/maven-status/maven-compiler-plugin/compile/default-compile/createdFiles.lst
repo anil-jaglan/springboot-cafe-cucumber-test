@@ -1,0 +1,5 @@
+io\microservices\cafe\controller\CoffeeController.class
+io\microservices\cafe\kitchen\CoffeeMachine.class
+io\microservices\cafe\domain\Coffee.class
+io\microservices\cafe\exceptions\AlienDemandException.class
+io\microservices\cafe\StartCafeApplication.class
